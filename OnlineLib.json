@@ -1,8 +1,40 @@
 {
-    "LOADER": [
-        {
-            "folder_name": "folder",
-            "loader_version": 1
-        }
+  "aplikasi": {
+    "G1": {
+      "id": 0,
+      "package": "com.tencent.ig",
+      "status": "Live",
+      "title": "PUBG GLOBAL",
+      "version": "3.7.0"
+    },
+    "G2": {
+      "id": 1,
+      "package": "com.pubg.imobile",
+      "status": "Live",
+      "title": "PUBG KOREA",
+      "version": "3.7.0"
+    }
+  },
+  "loader": {
+    "BGMI": {
+      "gamename": "BGMI",
+      "name": "libbgmi.so",
+      "url": "https://github.com/maher-black/update/raw/main/libbgmi.so",
+      "version": 1
+    },
+    "PUBGM": {
+      "gamename": "PUBGM",
+      "name": "libpubgm.so",
+      "url": "https://github.com/maher-black/update/raw/main/libpubgm.so",
+      "version": 1
+    }
+  },
+  "zip_loader": {
+    "url": "https://github.com/maher-black/update/archive/refs/heads/main.zip",
+    "contains": [
+      "libbgmi.so",
+      "libpubgm.so",
+      "sock64"
     ]
+  }
 }
