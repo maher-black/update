@@ -30,7 +30,7 @@
     }
   },
   "zip_loader": {
-    "url": "https://github.com/maher-black/update/archive/refs/heads/main.zip",
+    "url": "https://github.com/maher-black/update/archive/refs/heads/sock64.zip",
     "contains": [
       "libbgmi.so",
       "libpubgm.so",
