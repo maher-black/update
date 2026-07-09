@@ -1,7 +1,7 @@
 {
   "arm64-v8a": {
-    "version": "4.4",
-    "md5": "677b49d8b4665747594c14058be292ba",
+    "version": "4.5",
+    "md5": "bde3dc6abe765a8b66e491f01d40944e",
     "download_link": "https://fastly.jsdelivr.net/gh/maher-black/update@main/game_pak_mini_20775.pak"
   },
   "message": "Update mandatory. Unsupported version configuration."
