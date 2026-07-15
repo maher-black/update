@@ -1,8 +1,8 @@
 {
   "arm64-v8a": {
     "version": "4.5",
-    "sha256": "72378515654cfe7a7049ff6454ea63fa13c1d23e7d5c139015cad092cb09cf56",
-    "download_link": "https://fastly.jsdelivr.net/gh/maher-black/update@b8ef6c33df519dbd9bf8262bbbb0e28c9e169642/game_pak_mini_20775.pak"
+    "sha256": "20d68d59e7347a1afac804c67a2e4c7f0d20ef4ccabdb14ada8468e5555d79dd",
+    "download_link": "https://fastly.jsdelivr.net/gh/maher-black/update@d02b01daee40875e0db22097bc6dbb8a89d4b1e3/game_pak_mini_20775.pak"
   },
   "message": "Update mandatory. Unsupported version configuration."
 }
